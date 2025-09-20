@@ -1,0 +1,13 @@
+{
+  "Shopping": ["amazon", "flipkart", "dmart"],
+  "Food & Groceries": ["zomato", "swiggy", "zepto", "milk"],
+  "Transport": ["uber", "ola", "rapido"],
+  "Entertainment": ["netflix", "spotify", "prime"],
+  "Income": ["salary", "payroll", "credit salary"],
+  "Rent/Loan": ["loan", "emi", "rent"],
+  "Bills & Utilities": ["airtel", "jio", "electric"],
+  "Healthcare": ["doctor", "hospital", "pharmacy"],
+  "Investment/Savings": ["mutual fund", "investment", "savings"],
+  "Refund/Cashback": ["refund", "cashback"],
+  "Other": []
+}
